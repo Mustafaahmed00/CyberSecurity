@@ -1,8 +1,10 @@
 Classical Cipher Implementations
+
 This repository contains Python implementations of two historical encryption algorithms: the Caesar cipher and the Vigenère cipher. These ciphers represent early methods of cryptology and provide an educational insight into the evolution of encryption techniques.
 
 Overview
 Caesar Cipher
+
 The Caesar cipher is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is shifted a certain number of places down the alphabet. For example, with a shift of 1, 'A' would be replaced by 'B', 'B' would become 'C', and so on. This repository includes a Python implementation that allows the user to encrypt and decrypt messages using a specified shift key.
 
 Vigenère Cipher
