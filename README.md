@@ -26,6 +26,23 @@ Encrypt: Uses a keyword to vary the shift applied to each letter, encrypting the
 
 Decrypt: Applies the reverse shift using the same keyword to decrypt the ciphertext back to plaintext.
 
+Usage
+
+To use these scripts, clone the repository and run the desired Python file. You will be prompted to enter the mode (encrypt or decrypt), the message, and the key or keyword.
+
+Clone the repository
+git clone https://github.com/Mustafaahmed00/CyberSecurity.git
+
+Navigate to the repository directory:
+cd Mustafaahmed00/CyberSecurity
+
+Run the desired script:
+python caesar_cipher.py
+or
+python vigenere_cipher.py
+
+
+
 Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
